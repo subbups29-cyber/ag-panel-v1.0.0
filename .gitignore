@@ -1,0 +1,14 @@
+# In your project root
+git init
+git add .
+git commit -m "Initial CraftPanel setup"
+git branch -M main
+git remote add origin https:///subbups29-cyber/ag-panel-v1.0.0
+git push -u origin main
+```
+
+Add a `.gitignore`:
+```
+node_modules/
+dist/
+.env
