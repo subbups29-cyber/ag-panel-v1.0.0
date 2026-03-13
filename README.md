@@ -13,17 +13,17 @@ To set up this project locally, follow these steps:
    git clone https://github.com/subbups29-cyber/ag-panel-v1.0.0.git
    cd ag-panel-v1.0.0
 2 Install dependencie
-   ```npm install
+   ```npm install``
    
 3 Set up the environment
 
 Create a .env file in the root folder and populate it with the necessary environment variables as mentioned in the .env.example file.
 
 4 Run the database migration (if any) 
-    ```npm run migrate
+    ```npm run migrate```
 
 5 Start the application
-   ```npm start
+   ```npm start```
    
 ## Default Login Credentials
 Username: admin
