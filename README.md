@@ -13,6 +13,7 @@ To set up this project locally, follow these steps:
    git clone https://github.com/subbups29-cyber/ag-panel-v1.0.0.git
    cd ag-panel-v1.0.0
 2 Install dependencie
+   
    ```apt update```
    
    ``` apt install npm```
